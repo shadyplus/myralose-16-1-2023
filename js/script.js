@@ -44,7 +44,7 @@ const massange = [{
 }, {
     m: 'لفقدان الوزن بشكل صحيح  ، يمكنك تناول كل هذه المكونات ببساطة ثلاث مرات في اليوم: في الصباح ووقت الغداء وفي المساء. في غضون شهر واحد فقط ، ستتمكن من الوصول إلى هدفك.'
 }, {
-    m: 'هذا هو شكل المنتج الذي تجتمع به كل هذه الخصائص : <br><br> <img src="/apollofilesprelandingBw9dRq12/img/prod.png" class="product-img" style="width: 100%; max-width: 240px;"> '
+    m: 'هذا هو شكل المنتج الذي تجتمع به كل هذه الخصائص : <br><br> <img src="img/prod.png" class="product-img" style="width: 100%; max-width: 240px;"> '
 }, {
     m: "يحتوي هذا المنتج على مستخلصات مركزة للغاية  لحرق الدهون الطبيعية ، والتي تؤدي إلى عملية حرق الدهون الغير اللازمة بالجسم . "
 }, {
@@ -52,7 +52,7 @@ const massange = [{
 }, {
     m: "نتيجة لذلك ، يتخلص جسمك من الدهون الزائدة من تلقاء نفسه ، ويستخدمها كمصدر للطاقة. ستبدأ في تناول كميات أقل من الطعام وعدم الشعور بالجوع ، مما يزيد من تأثير فقدان الوزن. "
 }, {
-    m: 'هذه بعض النتائج لمرضاي اللذين فقدوا وزنهم بنجاح بإستخدام هذا المكمل الغذائي MYRALOSE : <br> <br><img src="/apollofilesprelandingBw9dRq12/img/comm-photo3-135-arb.jpg"> <br> <img src="/apollofilesprelandingBw9dRq12/img/comm2-92a-arb.jpg"> <br> <img src="/apollofilesprelandingBw9dRq12/img/comm6-abb-arb.jpg"> '
+    m: 'هذه بعض النتائج لمرضاي اللذين فقدوا وزنهم بنجاح بإستخدام هذا المكمل الغذائي MYRALOSE : <br> <br><img src="img/comm-photo3-135-arb.jpg"> <br> <img src="img/comm2-92a-arb.jpg"> <br> <img src="img/comm6-abb-arb.jpg"> '
 }, {
     m: "تبلغ المدة المثالية لإستخدام هذا المكمل الغذائي ، والتي تأخذ في الاعتبار عمرك ومؤشر كتلة جسمك الحالي واسلوب حياتك ، في المتوسط حوالي 60 يومًا. "
 }, {
